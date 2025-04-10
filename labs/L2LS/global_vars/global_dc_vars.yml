@@ -1,4 +1,9 @@
 ---
+# Login Banner
+banners:
+  motd: |
+    You shall not pass. Unless you are authorized. Then you shall pass.
+    EOF
 
 # Credentials for CVP and EOS Switches
 ansible_user: arista
